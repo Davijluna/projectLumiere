@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <p align="center">Project Lighting</p>
 <h1 align="center"> 💡 </h1>
 
