@@ -17,7 +17,7 @@
 
 ```bash 
 # clonar o Projeto
-$ git clone git@github.com:Davijluna/Casa-de-Cambio.git
+$ git@github.com:Davijluna/projectLumiere.git
 ```
 ```bash 
 # Entrar no diretório
